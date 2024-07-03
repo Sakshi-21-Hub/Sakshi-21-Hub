@@ -1,0 +1,5 @@
+library required:
+pands
+numpy
+tensorflow
+flask

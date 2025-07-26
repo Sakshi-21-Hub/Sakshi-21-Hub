@@ -3,3 +3,6 @@ pands
 numpy
 tensorflow
 flask
+
+
+to run use following command: python app.py
